@@ -1,0 +1,15 @@
+# Working files and drafts (not part of the site)
+.taste-skill/
+.vscode/
+*.docx
+join-artifact.html
+join.before-reskin.html
+nival.html
+roboteam-landing.html
+roboteam-hero.html
+
+# Downloaded pictures the page no longer uses
+assets/curiosity-gale-crater-sunset.jpg
+assets/curiosity-rover-selfie-at-mont-mercou-sol.jpg
+assets/technische-hogeschool-twente-en-de-campus-interieur.jpg
+assets/brand/preview-on-purple.png
